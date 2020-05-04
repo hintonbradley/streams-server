@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "1st stream",
+      "description": "This is my first attempt to create a stream",
+      "id": 1
+    },
+    {
+      "title": "My first stream?",
+      "description": "Is this really my first stream?",
+      "id": 2
+    },
+    {
+      "title": "Newest Stream",
+      "description": "This is with the user ID",
+      "userId": "105284065021057399526",
+      "id": 3
+    },
+    {
+      "title": "Redirect Stream",
+      "description": "This is a stream we created after implementing history object and redirect",
+      "userId": "105284065021057399526",
+      "id": 4
+    },
+    {
+      "title": "Redirect Stream 2",
+      "description": "This is second attempt to redirect user after creating a stream",
+      "userId": "105284065021057399526",
+      "id": 5
+    }
+  ]
+}
